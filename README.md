@@ -33,8 +33,6 @@ I spent seven months on the Rocket team in Unum's Total Leave department, workin
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-I've also written 68k Assembly, which taught me a lot about what the machine is actually doing.
-
 ## Projects
 
 | Project | What it is | Stack |
