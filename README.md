@@ -1,6 +1,6 @@
 # Hi, I'm Markus 👋
 
-I'm a fourth-year Software Development student at **SETU Carlow**, progressing from Level 7 to Level 8 on an advanced entry offer. I'm based near Portlaoise, Co. Laois, Ireland, and I'm looking for a graduate software engineering role where I can keep building production-quality features alongside experienced engineers.
+I'm a fourth-year Software Development student at **SETU Carlow**, currently undertaking my fourth year. I'm based near Portlaoise, Co. Laois, Ireland, and I'm looking for a graduate software engineering role where I can keep building production-quality features alongside experienced engineers.
 
 ## Experience
 
